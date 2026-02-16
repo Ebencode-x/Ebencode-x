@@ -1,16 +1,20 @@
-## Hi there 👋
+## # Hi there, I'm EBENEZER RICHARD MASANJA 👋
 
-<!--
-**Ebencode-x/Ebencode-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Enthusiast
+I am a passionate ICT student focused on building a secure digital world. 
+- 🏆 **Certified:** Introduction to Cybersecurity (Cisco)
+- 🏅 **Badge:** <a href="https://www.credly.com/badges/165e6ffb-615b-42f1-aea4-2d5cf31002dc/public_url" target="_blank"><img src="https://images.credly.com/images/af88522c-9199-4ce5-a35c-cd808bc4439c/Introduction_to_Cybersecurity.png" width="150" height="150" alt="Cisco Cybersecurity Badge"></a>
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+I am actively developing my foundation in programming and web technologies:
+- **Web Development:** HTML5 & CSS3 (Currently learning @freeCodeCamp)
+- **Programming:** C (Logic building & Systems basics)
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning Journey
+- 🟢 Exploring Network Security & SOC Operations.
+- 🔵 Strengthening C programming logic for security applications.
+- 🟡 Building responsive web projects with clean code.
+
+---
+*"The best way to predict the future is to code it."*
