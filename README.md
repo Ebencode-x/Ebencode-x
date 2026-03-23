@@ -1,3 +1,29 @@
+<div align="center">
+  <br>
+  <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9" target="_blank">
+    <img src="https://design-style-guide.freecodecamp.org/img/fcc_secondary_small.png" width="180" alt="fCC Logo">
+  </a>
+  <br>
+  
+  <h2>🏆 Verified Certification: Responsive Web Design</h2>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Ebencode-x/Ebencode-x/main/fcc-cert.jpg.png" width="650" style="border: 2px solid #2ea44f; border-radius: 10px;" alt="fCC Certification">
+  </p>
+
+  <p>
+    <b>EBENEZER RICHARD MASANJA</b><br>
+    <i>Completed on March 22, 2026 • 300 Hours of Learning</i>
+  </p>
+
+  <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9">
+    <img src="https://img.shields.io/badge/Verify--on--freeCodeCamp-green?style=for-the-badge&logo=freecodecamp" alt="Verify Badge">
+  </a>
+  <br><br>
+</div>
+
+<hr>
+
+
 <h1 align="center">EBENEZER RICHARD MASANJA</h1>
 <p align="center">
   <strong>First-Year ICT Student | Mbeya University of Science and Technology (MUST)</strong><br>
