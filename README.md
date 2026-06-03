@@ -1,116 +1,161 @@
 <div align="center">
-  <br>
-  <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9" target="_blank">
-    <img src="https://design-style-guide.freecodecamp.org/img/fcc_secondary_small.png" width="180" alt="fCC Logo">
-  </a>
-  <br>
-  
-  <h2>🏆 Verified Certification: Responsive Web Design</h2>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Ebencode-x/Ebencode-x/main/fcc-cert.jpg.png" width="650" style="border: 2px solid #2ea44f; border-radius: 10px;" alt="fCC Certification">
-  </p>
 
-  <p>
-    <b>EBENEZER RICHARD MASANJA</b><br>
-    <i>Completed on March 22, 2026 • 300 Hours of Learning</i>
-  </p>
+```
+╔══════════════════════════════════════════════════════════╗
+║   Building things that matter — from Mbeya, Tanzania.   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-  <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9">
-    <img src="https://img.shields.io/badge/Verify--on--freeCodeCamp-green?style=for-the-badge&logo=freecodecamp" alt="Verify Badge">
-  </a>
-  <br><br>
+# Ebenezer Richard Masanja
+### ICT Student · Software Engineer · Security-Minded Builder
+
+**Mbeya University of Science and Technology (MUST) · Class of 2028**
+
+*I don't build projects. I build products.*
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebencode-x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/Ebencode-x)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebencode-x&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ebencode-x)
+
 </div>
 
-<hr>
+---
 
+## What I'm Building
 
-<h1 align="center">EBENEZER RICHARD MASANJA</h1>
-<p align="center">
-  <strong>First-Year ICT Student | Mbeya University of Science and Technology (MUST)</strong><br>
-  <em>Software Engineering • Cybersecurity • Network Defense • Systems Logic</em>
-</p>
+> Two production-grade systems. Both live. Both real.
 
-<p align="center">
-  <a href="https://github.com/Ebencode-x">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ebencode-x&show_icons=true&theme=tokyonight" alt="Ebencode-x Stats" />
-  </a>
-</p>
+### [AgroLink Tanzania](https://github.com/Ebencode-x/agrolink-tanzania)
+**Agricultural marketplace connecting Tanzanian smallholder farmers to buyers — built to actually ship.**
 
-<hr>
+Stack: `Flask` · `PostgreSQL` · `Supabase` · `Gemini Vision AI` · `Render`
 
-<div align="center">
-  <h3> Featured Achievement</h3>
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9" target="_blank">
-          <kbd>
-            <img src="https://raw.githubusercontent.com/Ebencode-x/Ebencode-x/main/fCC-Responsive-Web-Design.jpg" width="600" alt="fCC Certification">
-          </kbd>
-        </a>
-        <br>
-        <strong>Responsive Web Design Developer Certification</strong><br>
-        <small>300 Hours of Rigorous Curriculum • Completed March 22, 2026</small>
-        <br>
-        <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9">
-          <img src="https://img.shields.io/badge/Verify-Credential-0a0a23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="Verify">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- AI crop disease diagnosis via photo upload (*Daktari wa Zao*)
+- Price prediction engine covering 25 regions × 25 crops with seasonal/regional multipliers
+- AgroBot — Kiswahili-first farming assistant with 200+ keyword coverage
+- Seller verification, rating system, and anti-fraud reporting layer
+- Full security layer: SQL injection protection, rate limiting, session management
 
-<hr>
+<sub>Kiswahili-first UI · Targeting regional East/Central Africa expansion</sub>
 
-<h3> Professional Cybersecurity Validation</h3>
-<p><em>Verified via Cisco Networking Academy & Credly</em></p>
+---
 
-<table border="0" width="100%">
+### [SentinAI](https://sentinai.onrender.com) · *Live*
+**AI-powered DevOps self-healing infrastructure tool — the kind of thing enterprise teams pay for.**
+
+Stack: `Python` · `React` · `Docker` · `Claude API (Anthropic)` · `Render`
+
+- Automated incident detection, patch generation, and sandbox execution pipeline
+- AST-level semantic patch validation before any code touches production
+- Prompt injection defense across 6 pattern categories
+- Multi-tenant auth, rate limiting, and webhook support
+- 686 tests · CI green · Docker Hub: `ebencodex/sentinai:latest`
+
+<sub>Phase 6 active: AWS integration · SaaS monetization · Product Hunt launch prep</sub>
+
+---
+
+## Skills
+
+```
+Languages     Python · JavaScript · C · HTML5 · CSS3
+Backend       Flask · PostgreSQL · REST APIs · SQLAlchemy · Supabase
+Frontend      React · Tailwind CSS · Responsive Design
+DevOps        Docker · Git · GitHub Actions · Render · Linux CLI
+Security      Threat Detection · SQL Injection Defense · Rate Limiting · Network Defense
+AI/ML         Anthropic Claude API · Gemini Vision AI · Prompt Engineering
+Tools         VS Code · Cisco Packet Tracer · Windows GPO
+```
+
+---
+
+## Certifications
+
+<table>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td align="center" width="200">
+      <a href="https://freecodecamp.org/certification/eben_01/responsive-web-design-v9">
+        <img src="https://design-style-guide.freecodecamp.org/img/fcc_secondary_small.png" width="60"><br>
+        <strong>Responsive Web Design</strong><br>
+        <sub>freeCodeCamp · 300 hrs</sub><br>
+        <sub>March 2026</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://coursera.org/share/4dbcfe175ba77eb937309372c8af6dbd">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40"><br>
+        <strong>Programming with JavaScript</strong><br>
+        <sub>Meta · Coursera</sub><br>
+        <sub>2026</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://www.credly.com/badges/b3b423ee-2d56-49a1-84ff-4f42cb452b57/public_url">
-        <img src="https://images.credly.com/images/154425da-228a-449e-b8d9-2d178e634426/image.png" width="100"><br>
-        <strong>Network Defense</strong>
+        <img src="https://images.credly.com/images/154425da-228a-449e-b8d9-2d178e634426/image.png" width="60"><br>
+        <strong>Network Defense</strong><br>
+        <sub>Cisco · Credly</sub><br>
+        <sub>2025</sub>
       </a>
     </td>
-    <td width="33%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="200">
       <a href="https://www.credly.com/badges/a99e976e-1c9d-430a-a43f-1e8d59ff380d/public_url">
-        <img src="https://images.credly.com/size/340x340/images/6987f748-8162-4752-9d33-3bc3448834a3/image.png" width="100"><br>
-        <strong>Cyber Threat Mgmt</strong>
+        <img src="https://images.credly.com/size/340x340/images/6987f748-8162-4752-9d33-3bc3448834a3/image.png" width="60"><br>
+        <strong>Cyber Threat Management</strong><br>
+        <sub>Cisco · Credly</sub><br>
+        <sub>2025</sub>
       </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td align="center" width="200">
       <a href="https://www.credly.com/badges/165e6ffb-615b-42f1-aea4-2d5cf31002dc/public_url">
-        <img src="https://images.credly.com/size/220x220/images/af867054-998a-4952-bf6d-209489568910/Introduction_to_Cybersecurity.png" width="100"><br>
-        <strong>Intro to Cyber</strong>
+        <img src="https://images.credly.com/size/220x220/images/af867054-998a-4952-bf6d-209489568910/Introduction_to_Cybersecurity.png" width="60"><br>
+        <strong>Intro to Cybersecurity</strong><br>
+        <sub>Cisco · Credly</sub><br>
+        <sub>2025</sub>
       </a>
+    </td>
+    <td align="center" width="200">
+      <em>More incoming —<br>Version Control · React<br><sub>Meta Front-End Path · 2026</sub></em>
     </td>
   </tr>
 </table>
 
-<hr>
+---
 
-<h3> Technical Stack & Operations</h3>
-<ul>
-  <li><strong>Languages:</strong> C (Memory Management & Data Structures), HTML5, CSS3, JavaScript (In Progress).</li>
-  <li><strong>Security:</strong> Infrastructure Protection, Traffic Filtering, Threat Detection.</li>
-  <li><strong>Tools:</strong> Linux CLI, Git/GitHub, Windows GPO, Cisco Packet Tracer.</li>
-</ul>
+## Currently Learning
 
-<h3> Continuous Integration Projects</h3>
-<ul>
-  <li><strong>Ebencode-x Portfolio:</strong> Engineering secure, responsive interfaces with semantic HTML.</li>
-  <li><strong>C-Security Modules:</strong> Developing optimized encryption logic for data integrity.</li>
-</ul>
+```
+[████████████████████░░░░]  Meta Front-End Developer Path (Coursera)
+  ✓ Programming with JavaScript
+  ✓ Responsive Web Design (fCC)
+  → Version Control  ·  75% complete
+  ○ HTML & CSS in Depth
+  ○ React Basics
+```
 
-<hr>
+---
 
-<h3 align="center">Connect with Ebencode-x</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ebenezer-richard-masanja-a49437399"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:er.masanja01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+## Stack & Environment
 
-<p align="center">
-  <em>"Security is a continuous process of logical verification."</em>
-</p>
+- **OS:** Linux Mint 22.3 XFCE
+- **Editor:** VS Code
+- **Daily tools:** Git · Docker · Python venv · GitHub CLI
+- **Philosophy:** Ship real things. Understand every line. No shortcuts.
+
+---
+
+<div align="center">
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebenezer-richard-masanja-a49437399)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.masanja01@gmail.com)
+[![SentinAI](https://img.shields.io/badge/SentinAI-Live-00C851?style=for-the-badge)](https://sentinai.onrender.com)
+
+<br>
+
+*"Security is a continuous process of logical verification."*
+
+<sub>First-year student. Production-grade output. That's the standard.</sub>
+
+</div>
