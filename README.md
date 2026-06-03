@@ -81,7 +81,7 @@ Tools         VS Code · Cisco Packet Tracer · Windows GPO
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://coursera.org/share/4dbcfe175ba77eb937309372c8af6dbd">
+      <a href="https://coursera.org/verify/859GLDVJMAF7">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40"><br>
         <strong>Programming with JavaScript</strong><br>
         <sub>Meta · Coursera</sub><br>
@@ -112,6 +112,14 @@ Tools         VS Code · Cisco Packet Tracer · Windows GPO
         <strong>Intro to Cybersecurity</strong><br>
         <sub>Cisco · Credly</sub><br>
         <sub>2025</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/b3b423ee-2d56-49a1-84ff-4f42cb452b57/public_url">
+        <img src="https://images.credly.com/images/18c4a956-7bad-43fa-bb0e-1c7e7be79ac5/image.png" width="60"><br>
+        <strong>Endpoint Security</strong><br>
+        <sub>Cisco Networking Academy</sub><br>
+        <sub>Feb 2026</sub>
       </a>
     </td>
     <td align="center" width="200">
