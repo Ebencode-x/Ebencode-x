@@ -1,42 +1,20 @@
-<div align="center">
+<img src="assets/hero.svg" alt="Terminal session: Ebenezer Richard Masanja, ICT student at MUST in Mbeya, Tanzania, full-stack developer and security-minded builder, with agrolink-tanzania and sentinai deployed." width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Ebenezer%20Richard%20Masanja&fontSize=36&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=ICT%20Student%20·%20Software%20Engineer%20·%20Security-Minded%20Builder&descAlignY=58&descSize=16&descColor=94a3b8" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/ebenezer-masanja/) · [Email](mailto:er.masanja01@gmail.com) · [AgroLink](https://agrolink-tanzania.onrender.com/) · [SentinAI](https://sentinai.onrender.com)
 
-</div>
+## Projects
 
-<div align="center">
+### [AgroLink Tanzania](https://github.com/Ebencode-x/agrolink-tanzania)
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│      Building things that matter — from Mbeya, Tanzania.    │
-│         I don't build projects. I build products.           │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**Mbeya University of Science and Technology (MUST) · Class of 2028**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ebenezer--masanja-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebenezer-masanja/)
-[![Email](https://img.shields.io/badge/Email-er.masanja01@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:er.masanja01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ebencode--x-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ebencode-x)
-[![SentinAI Live](https://img.shields.io/badge/SentinAI-Live%20%E2%86%97-00C851?style=flat-square)](https://sentinai.onrender.com)
-
-</div>
-
----
-
-## What I'm Building
-
-> Two production-grade systems. Both live. Both real.
-
----
-
-### [AgroLink Tanzania](https://github.com/Ebencode-x/agrolink-tanzania) — Agricultural Marketplace
-
-**Connecting Tanzanian smallholder farmers directly to buyers. Eliminating the middleman. Built to ship.**
+Agricultural marketplace. Connecting Tanzanian smallholder farmers directly to buyers and eliminating the middleman. [Live site](https://agrolink-tanzania.onrender.com/)
 
 ```
 Stack: Flask · PostgreSQL · Supabase · Gemini Vision AI · OpenWeatherMap · Render
 ```
+
+<details open>
+<summary>What it does</summary>
+<br>
 
 | Feature | Details |
 |---|---|
@@ -46,17 +24,21 @@ Stack: Flask · PostgreSQL · Supabase · Gemini Vision AI · OpenWeatherMap · 
 | Security Layer | SQL injection defense · rate limiting · session management · seller verification |
 | Anti-Fraud System | Seller rating · buyer reporting · account suspension |
 
-<sub>Kiswahili-first UI · Targeting East & Central Africa regional expansion</sub>
+</details>
 
----
+<sub>Kiswahili-first UI.</sub>
 
-### [SentinAI](https://sentinai.onrender.com) — DevOps Self-Healing Infrastructure Tool · *Live*
+### [SentinAI](https://sentinai.onrender.com)
 
-**AI-powered incident detection, patch generation and autonomous remediation. The kind of thing enterprise teams pay for.**
+DevOps self-healing infrastructure tool. AI-powered incident detection, patch generation and autonomous remediation.
 
 ```
 Stack: FastAPI · React · TypeScript · Docker · Anthropic Claude API · GitHub Actions · Render
 ```
+
+<details open>
+<summary>What it does</summary>
+<br>
 
 | Feature | Details |
 |---|---|
@@ -66,11 +48,9 @@ Stack: FastAPI · React · TypeScript · Docker · Anthropic Claude API · GitHu
 | Observability | Real-time charts · Prometheus metrics · immutable JSONL audit log |
 | Test Coverage | 686 tests · CI green · Docker Hub: `ebencodex/sentinai:latest` |
 
-<sub>Phase 6 active: AWS integration · SaaS monetization · Product Hunt launch prep</sub>
+</details>
 
----
-
-## Skills & Stack
+## Stack
 
 ```
 Languages     Python · JavaScript · TypeScript · C · HTML5 · CSS3
@@ -78,88 +58,47 @@ Backend       FastAPI · Flask · PostgreSQL · REST APIs · SQLAlchemy · Supab
 Frontend      React · Tailwind CSS · Responsive Design · Glassmorphism UI
 DevOps        Docker · Git · GitHub Actions · CI/CD · Render · Linux Mint 22.3 XFCE
 Security      Threat Detection · AST Patch Validation · SQL Injection Defense · Rate Limiting
-               Prompt Injection Defense · Endpoint Security · Network Defense
+              Prompt Injection Defense · Endpoint Security · Network Defense
 AI/ML         Anthropic Claude API · Gemini Vision AI · Prompt Engineering · SmartStub LLM
 Testing       Pytest · 686+ test suite · CI pipelines
 Tools         VS Code · GitHub CLI · Cisco Packet Tracer · Tauri (Desktop Apps)
 ```
 
----
-
 ## Certifications
+
+**Web and front-end**
 
 | Certification | Issuer | Date | Verify |
 |---|---|---|---|
-| Responsive Web Design (v9) | freeCodeCamp · ~300 hrs | March 2026 | [Verify ↗](https://freecodecamp.org/certification/eben_01/responsive-web-design-v9) |
-| Programming with JavaScript | Meta · Coursera | May 2026 | [Verify ↗](https://coursera.org/verify/859GLDVJMAF7) |
-| Network Defense | Cisco · Credly | March 2026 | [Verify ↗](https://www.credly.com/badges/b3b423ee-2d56-49a1-84ff-4f42cb452b57/public_url) |
-| Cyber Threat Management | Cisco · Credly | 2025 | [Verify ↗](https://www.credly.com/badges/a99e976e-1c9d-430a-a43f-1e8d59ff380d/public_url) |
-| Introduction to Cybersecurity | Cisco · Credly | 2025 | [Verify ↗](https://www.credly.com/badges/165e6ffb-615b-42f1-aea4-2d5cf31002dc/public_url) |
-| Endpoint Security | Cisco Networking Academy | Feb 2026 | [Verify ↗](https://www.credly.com/badges/b3b423ee-2d56-49a1-84ff-4f42cb452b57/public_url) |
+| Responsive Web Design (v9) | freeCodeCamp, ~300 hrs | Mar 2026 | [Verify](https://freecodecamp.org/certification/eben_01/responsive-web-design-v9) |
+| Programming with JavaScript | Meta, Coursera | May 2026 | [Verify](https://coursera.org/verify/859GLDVJMAF7) |
+| Version Control | Meta, Coursera | Jun 2026 | |
+| HTML & CSS in Depth | Meta, Coursera | Jul 2026 | |
+| React Basics | Meta, Coursera | Aug 2026 | |
+| Advanced React | Meta, Coursera | Sep 2026 | |
 
----
+**Security**
 
-## Progress
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| Introduction to Cybersecurity | Cisco, Credly | 2025 | [Verify](https://www.credly.com/badges/165e6ffb-615b-42f1-aea4-2d5cf31002dc/public_url) |
+| Cyber Threat Management | Cisco, Credly | 2025 | [Verify](https://www.credly.com/badges/a99e976e-1c9d-430a-a43f-1e8d59ff380d/public_url) |
+| Endpoint Security | Cisco Networking Academy | Feb 2026 | <!-- add the correct Endpoint Security verify link --> |
+| Network Defense | Cisco, Credly | Mar 2026 | [Verify](https://www.credly.com/badges/b3b423ee-2d56-49a1-84ff-4f42cb452b57/public_url) |
 
-```
-Meta Front-End Developer Path (Coursera)
-[████████████████████░░░░░]  ~80% complete
+**Python**
 
-  ✓  Responsive Web Design          (freeCodeCamp · March 2026)
-  ✓  Programming with JavaScript    (Meta · May 2026)
-  →  Version Control                (in progress · ~75%)
-  ○  HTML & CSS in Depth
-  ○  React Basics
-```
-
-```
-Security Track (Cisco Networking Academy)
-[████████████████████████░]  ~95% complete
-
-  ✓  Introduction to Cybersecurity  (2025)
-  ✓  Endpoint Security              (Feb 2026)
-  ✓  Cyber Threat Management        (2025)
-  ✓  Network Defense                (March 2026)
-  →  Introduction to Networks       (in progress)
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebencode-x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Ebencode-x)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebencode-x&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ebencode-x)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ebencode-x&theme=tokyonight&hide_border=true)](https://github.com/Ebencode-x)
-
-</div>
-
----
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| Python Essentials 1 | Cisco | 2026 | |
+| Python Essentials 2 | Cisco, Credly | Sep 2026 | |
 
 ## Environment
 
-| | |
-|---|---|
-| **OS** | Linux Mint 22.3 XFCE |
-| **Editor** | VS Code |
-| **Daily Stack** | Git · Docker · Python venv · GitHub CLI · Rust/Cargo |
-| **Hardware** | Intel Pentium 3825U · 4GB RAM — shipping production code anyway |
-| **Philosophy** | Ship real things. Understand every line. No shortcuts. |
+<img src="assets/env.svg" alt="neofetch output: Linux Mint 22.3 XFCE, VS Code, Git, Docker, Python venv, GitHub CLI, Rust and Cargo, Intel Pentium 3825U, 4GB RAM. Shipping production code anyway." width="100%">
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br>
 
 *"Security is a continuous process of logical verification."*
 
-**First-year student. Production-grade output. That's the standard.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebenezer-masanja/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.masanja01@gmail.com)
-[![SentinAI](https://img.shields.io/badge/SentinAI-Visit%20Live-00C851?style=for-the-badge)](https://sentinai.onrender.com)
-
-</div>
+Mbeya, Tanzania · [er.masanja01@gmail.com](mailto:er.masanja01@gmail.com)
