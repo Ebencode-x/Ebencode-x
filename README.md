@@ -72,10 +72,10 @@ Tools         VS Code · GitHub CLI · Cisco Packet Tracer · Tauri (Desktop App
 |---|---|---|---|
 | Responsive Web Design (v9) | freeCodeCamp, ~300 hrs | Mar 2026 | [Verify](https://freecodecamp.org/certification/eben_01/responsive-web-design-v9) |
 | Programming with JavaScript | Meta, Coursera | May 2026 | [Verify](https://coursera.org/verify/859GLDVJMAF7) |
-| Version Control | Meta, Coursera | Jun 2026 | |
-| HTML & CSS in Depth | Meta, Coursera | Jul 2026 | |
-| React Basics | Meta, Coursera | Aug 2026 | |
-| Advanced React | Meta, Coursera | Sep 2026 | |
+| Version Control | Meta, Coursera | Jun 2026 | [Verify](https://coursera.org/verify/FQ8UVY6XGG1O) |
+| HTML & CSS in Depth | Meta, Coursera | Jul 2026 | [Verify](https://coursera.org/verify/FLGI23WGJHRQ) |
+| React Basics | Meta, Coursera | Aug 2026 | [Verify](https://coursera.org/verify/CBALM4KSN1T1) |
+| Advanced React | Meta, Coursera | Sep 2026 | [Verify](https://coursera.org/verify/QE253KFENS0F) |
 
 **Security**
 
@@ -90,7 +90,7 @@ Tools         VS Code · GitHub CLI · Cisco Packet Tracer · Tauri (Desktop App
 
 | Certification | Issuer | Date | Verify |
 |---|---|---|---|
-| Python Essentials 1 | Cisco | 2026 | |
+| Python Essentials 1 | Cisco | Jul 2026 | |
 | Python Essentials 2 | Cisco, Credly | Sep 2026 | |
 
 ## Environment
