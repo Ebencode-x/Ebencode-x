@@ -28,7 +28,7 @@ Stack: Flask · PostgreSQL · Supabase · Gemini Vision AI · OpenWeatherMap · 
 
 <sub>Kiswahili-first UI.</sub>
 
-### [SentinAI](https://sentinai.onrender.com)
+### [SentinAI](https://github.com/Ebencode-x/sentinai-project)
 
 DevOps self-healing infrastructure tool. AI-powered incident detection, patch generation and autonomous remediation. [Live site](https://sentinai.onrender.com)
 
