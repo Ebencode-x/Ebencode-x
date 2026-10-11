@@ -4,7 +4,7 @@
 
 ## Projects
 
-### [AgroLink Tanzania](https://github.com/Ebencode-x/agrolink-tanzania)
+### [AgroLink Tanzania](https://github.com/Ebencode-x/agrolink)
 
 Agricultural marketplace. Connecting Tanzanian smallholder farmers directly to buyers and eliminating the middleman. [Live site](https://agrolink-tanzania.onrender.com/)
 
@@ -30,7 +30,7 @@ Stack: Flask · PostgreSQL · Supabase · Gemini Vision AI · OpenWeatherMap · 
 
 ### [SentinAI](https://sentinai.onrender.com)
 
-DevOps self-healing infrastructure tool. AI-powered incident detection, patch generation and autonomous remediation.
+DevOps self-healing infrastructure tool. AI-powered incident detection, patch generation and autonomous remediation. [Live site](https://sentinai.onrender.com)
 
 ```
 Stack: FastAPI · React · TypeScript · Docker · Anthropic Claude API · GitHub Actions · Render
