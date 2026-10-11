@@ -81,8 +81,7 @@ Tools         VS Code · GitHub CLI · Cisco Packet Tracer · Tauri (Desktop App
 
 | Certification | Issuer | Date | Verify |
 |---|---|---|---|
-| Introduction to Cybersecurity | Cisco, Credly | 2025 | [Verify](https://www.credly.com/badges/165e6ffb-615b-42f1-aea4-2d5cf31002dc/public_url) |
-| Cyber Threat Management | Cisco, Credly | 2025 | <!-- add the correct Cyber Threat Management verify link -->|
+| Introduction to Cybersecurity | Cisco, Credly | Feb 2026 | [Verify](https://www.credly.com/badges/165e6ffb-615b-42f1-aea4-2d5cf31002dc/public_url) |
 | Endpoint Security | Cisco, Credly | Feb 2026 | [Verify](https://www.credly.com/badges/a99e976e-1c9d-430a-a43f-1e8d59ff380d/public_url) |
 | Network Defense | Cisco, Credly | Mar 2026 | [Verify](https://www.credly.com/badges/b3b423ee-2d56-49a1-84ff-4f42cb452b57/public_url) |
 
